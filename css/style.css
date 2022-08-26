@@ -1,0 +1,37 @@
+body{
+    font-family: sans-serif;
+}
+header{
+    background-color: white;
+}
+.challenge{
+    text-transform:uppercase;
+    text-indent: 30px;
+}
+.brief{
+    margin-left: 10px;
+}
+.section1{
+    display: flex;
+    justify-content: space-between;
+    line-height: 1.5;
+}
+.span1 ,.span2, .size{
+    display: block;
+}
+.li5, .li4{
+    margin-left: 25px;
+}
+.form, .input,.style-guide-me,.README-md{
+    background-color: rgb(198, 220, 220);  
+    font-family: monospace;  
+}
+.span3{
+    display: block;
+}
+.getting-started{
+    margin-right: 50px;
+}
+a{
+    color: black;
+}
